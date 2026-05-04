@@ -1,0 +1,6 @@
+[/]
+move-to-monitor-left=@as []
+move-to-monitor-right=@as []
+show-desktop=['<Super>d']
+switch-to-workspace-left=['<Super>Left']
+switch-to-workspace-right=['<Super>Right']

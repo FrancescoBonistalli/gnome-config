@@ -1,0 +1,4 @@
+[/]
+focus-active-notification=@as []
+show-screenshot-ui=['<Shift><Super>s']
+toggle-message-tray=['<Super>n']

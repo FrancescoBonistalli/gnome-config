@@ -1,0 +1,23 @@
+[/]
+control-center=['<Super>i']
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/']
+mic-mute=['<Super>m']
+next=['<Super>l']
+play=['<Super>k']
+previous=['<Super>j']
+screensaver=@as []
+
+[custom-keybindings/custom0]
+binding='<Super>f'
+command='nautilus --new-window '
+name='Apri Gestore File'
+
+[custom-keybindings/custom1]
+binding='<Super>t'
+command='ptyxis --new-window'
+name='Apri Terminale'
+
+[custom-keybindings/custom2]
+binding='<Super>b'
+command='firefox'
+name='Apri firefox'
